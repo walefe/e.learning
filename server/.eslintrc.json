@@ -31,5 +31,10 @@
           "ts": "never"
         }
       ]
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": {}
+      }
     }
 }
